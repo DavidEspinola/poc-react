@@ -1,0 +1,26 @@
+.Pagination ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.Pagination a {
+  border: 1px solid lightgrey;
+  width: 30px;
+  height: 30px;
+  border-radius: 4px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.Pagination .selected a {
+  background-color: #222222;
+  color: #61dafb;
+  border-color: #222;
+  font-weight: bold;
+}

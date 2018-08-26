@@ -1,0 +1,10 @@
+.AppLayout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.AppLayout-content {
+  padding: 20px;
+  width: 800px;
+}

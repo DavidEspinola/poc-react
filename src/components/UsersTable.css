@@ -1,0 +1,10 @@
+.UsersTable {
+  width: 100%;
+  text-align: center;
+}
+
+.UsersTable img {
+  width: 90px;
+  height: 90px;
+  background-color: grey;
+}
